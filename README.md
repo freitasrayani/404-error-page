@@ -5,12 +5,15 @@
 
 ## Status: 
  Em construção :warning:
+ 
+   ## Preview
+  
+ <img src="https://github.com/freitasrayani/404-error-page/blob/master/404view.png">
+   
 
 ### Foi usado :construction:
   - HTML
    - CSS
    
-   
- <img src="https://github.com/freitasrayani/404-error-page/blob/master/404view.png">
-   
+
 
