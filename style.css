@@ -76,22 +76,37 @@ body, html{
     width: 8rem;
     height: 5rem;
 }
-     
+.github-list {
+    background:transparent;
+    border-radius: 50%;
+    transition: 1.5seg;
+}
 .github-list:hover {
-    border-radius: 2pc 1pc;
-    background: rgb(193, 158, 221);
-    box-shadow: 1pc 1pc rgb(210, 182, 247);
+    background: rgb(74, 105, 189);
+    background: linear-gradient(60deg, rgb(247, 243, 247)0%, rgb(220, 150, 248)30%, rgb(211, 146, 248)100%);
+    box-shadow: 0pc 1pc rgb(206, 206, 197);
+}
+.linkedin-list {
+    background:transparent;
+    border-radius: 50%;
+    transition: 1.5seg;
 }
 .linkedin-list:hover {
-    border-radius: 2pc 1pc;
-    background: rgb(193, 158, 221);
-    box-shadow: 1pc 1pc rgb(210, 182, 247);
+    background: rgb(74, 105, 189);
+    background: linear-gradient(60deg, rgb(247, 243, 247)0%, rgb(220, 150, 248)30%, rgb(211, 146, 248)100%);
+    box-shadow: 0pc 1pc rgb(206, 206, 197);
+}
+.instagram-list {
+    background:transparent;
+    border-radius: 50%;
+    transition: 1.5seg;
 }
 .instagram-list:hover {
-    border-radius: 2pc 1pc;
-    background: rgb(193, 158, 221);
-    box-shadow: 1pc 1pc rgb(210, 182, 247);
+    background: rgb(74, 105, 189);
+    background: linear-gradient(60deg, rgb(247, 243, 247)0%, rgb(220, 150, 248)30%, rgb(211, 146, 248)100%);
+    box-shadow: 0pc 1pc rgb(206, 206, 197);
 }
+
 
 
 @media (min-width: 600px) {
