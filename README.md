@@ -1,10 +1,32 @@
+
+# :negative_squared_cross_mark: 404 Page not found :negative_squared_cross_mark:
+
+## Project Description
+<p align="justify"> A simple 404 page </p>
+
+## Status: 
+ Under Development :warning:
+ 
+   ## Preview
+  
+ <img src="https://github.com/freitasrayani/404-error-page/blob/master/404view.png">
+   
+
+### Made With :construction:
+  - HTML
+   - CSS
+
+
+###### PT/BR 
+
+
 # :negative_squared_cross_mark: 404 Page not found :negative_squared_cross_mark:
 
 ## Descrição do Projeto
-<p align="justify"> Uma página 404 not found </p>
+<p align="justify"> Uma simples página 404 not found </p>
 
 ## Status: 
- Em construção :warning:
+ Em Desenvolvimento :warning:
  
    ## Preview
   
