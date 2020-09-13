@@ -20,10 +20,10 @@
 ###### PT/BR 
 
 
-# :negative_squared_cross_mark: 404 Page not found :negative_squared_cross_mark:
+# :negative_squared_cross_mark: Página 404 não encontrada :negative_squared_cross_mark:
 
 ## Descrição do Projeto
-<p align="justify"> Uma simples página 404 not found </p>
+<p align="justify"> Uma simples página 404 </p>
 
 ## Status: 
  Em Desenvolvimento :warning:
