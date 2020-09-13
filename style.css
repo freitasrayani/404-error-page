@@ -76,6 +76,23 @@ body, html{
     width: 8rem;
     height: 5rem;
 }
+     
+.github-list:hover {
+    border-radius: 2pc 1pc;
+    background: rgb(193, 158, 221);
+    box-shadow: 1pc 1pc rgb(210, 182, 247);
+}
+.linkedin-list:hover {
+    border-radius: 2pc 1pc;
+    background: rgb(193, 158, 221);
+    box-shadow: 1pc 1pc rgb(210, 182, 247);
+}
+.instagram-list:hover {
+    border-radius: 2pc 1pc;
+    background: rgb(193, 158, 221);
+    box-shadow: 1pc 1pc rgb(210, 182, 247);
+}
+
 
 @media (min-width: 600px) {
     .container {
